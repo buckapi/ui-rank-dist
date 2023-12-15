@@ -4250,8 +4250,8 @@ li {
 }
 .transaction-box .transaction-image {
   background: rgba(var(--box-bg), 0.1);
-  border-radius: 6px;
-  width: 50px;
+  border-radius: 15px;
+  width: 130px;
   height: 50px;
   display: -webkit-box;
   display: -ms-flexbox;

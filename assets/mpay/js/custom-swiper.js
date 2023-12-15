@@ -7,6 +7,7 @@ var swiper = new Swiper(".card-slider", {
 var swiper2 = new Swiper(".banner", {
   slidesPerView: 1.1,
   spaceBetween: 15,
+  autoplay:true,
   loop: true,
 });
 var swiper3 = new Swiper(".portfolio", {
